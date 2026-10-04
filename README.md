@@ -1,7 +1,7 @@
 # MacAnalytics
 
 <p align="center">
-  <img src="logo.jpg" width="160" alt="MacAnalytics">
+  <img src="logo.png" width="200" alt="MacAnalytics">
 </p>
 
 <p align="center"><strong>One menu for the state of your Mac.</strong></p>
